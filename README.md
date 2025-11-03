@@ -21,8 +21,8 @@ Crime: https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025/resource/e419c20
 
 Median Age at Death: https://data.wprdc.org/dataset/median-age-death
 - Notebook Author: Francisco
-- Notebook:
-- Description:
+- Notebook: Death
+- Description: This database talks about the median age of death in Allegheny county, sorted by neighborhood. It also can be sorted by black median age at death and white median age at death, but we did not look at that data in this project.
 
 Fires: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resource/8d76ac6b-5ae8-4428-82a4-043130d17b02
 - Notebook Author: Katya
