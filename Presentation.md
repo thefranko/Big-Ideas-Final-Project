@@ -7,4 +7,5 @@ aldfjkaljf
 # Katya
 alsdjfalj
 
-# Combined
+# Combined MAYBE CHANGE REGENT SQUARE
+We decided that Regent Square was the best, it has low crime (2 Felonies) and fire rates (9 Fires) , and its death age (76.7) isn't too bad either. These data are pretty good, but its a shame that we couldn't find one that was clearly the best and was the best across all categories. 
