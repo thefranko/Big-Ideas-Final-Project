@@ -16,7 +16,7 @@ In this project, our goal is to determine which neighborhoods in Pittsburgh are 
 
 Crime: https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025/resource/e419c20c-8df4-4729-830c-e49427a656e0
 - Notebook Author: Caden
-- Notebook:
+- Notebook: Crimes
 - Description:
 
 Median Age at Death: https://data.wprdc.org/dataset/median-age-death
@@ -26,8 +26,10 @@ Median Age at Death: https://data.wprdc.org/dataset/median-age-death
 
 Fires: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resource/8d76ac6b-5ae8-4428-82a4-043130d17b02
 - Notebook Author: Katya
-- Notebook:
+- Notebook: Fires
 - Description:
 
+#Overview
+This project seeks to find the best neighborhood in Pittsburgh based off of Crime, Fire, and Death age data.
 
 
