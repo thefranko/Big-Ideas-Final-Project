@@ -17,7 +17,7 @@ In this project, our goal is to determine which neighborhoods in Pittsburgh are 
 Crime: https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025/resource/e419c20c-8df4-4729-830c-e49427a656e0
 - Notebook Author: Caden
 - Notebook: Crimes
-- Description:
+- Description: This dataset contains information on arrests in the Pittsburgh area in 2025. It has different arrest information such as, Felony, Misdemenor, and Infraction.
 
 Median Age at Death: https://data.wprdc.org/dataset/median-age-death
 - Notebook Author: Francisco
